@@ -1,0 +1,14 @@
+{
+  "name": "dewo",
+  "version": "1.0.0",
+  "description": "it's my first web3 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.8.1"
+  }
+}
